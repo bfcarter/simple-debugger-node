@@ -1,0 +1,3 @@
+[90mThis is a normal test log[39m
+[90mThis is a normal test log[39m
+[90mThis is a normal test log[39m
