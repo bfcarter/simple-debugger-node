@@ -4,7 +4,9 @@
   "description": "",
   "main": "debugger.js",
   "scripts": {
-    "test": "mocha tests"
+    "test": "mocha tests",
+    "getVersion": "cat currentVersion.txt",
+    "versionUpdater": "gulp watch"
   },
   "keywords": [],
   "author": "",
@@ -12,5 +14,9 @@
   "dependencies": {
     "colors": "^1.1.2",
     "mocha": "^3.2.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-watch": "^4.3.11"
   }
 }

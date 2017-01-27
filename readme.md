@@ -6,6 +6,9 @@ To test the application:
 
     npm run test
 
+To run automatic version bumping:
+    npm run versionUpdater
+
 How to use in application:
 
 
